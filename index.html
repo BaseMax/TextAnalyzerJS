@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Text Analyzer - A online and web-based tool to analyze the words of an input string</title>
+	</head>
+	<body>
+		<center>
+			<h1>Text Analyzer</h1>
+			<h2>A online and web-based tool to analyze the words of an input string.</h2>
+		</center>
+		<br>
+		<b>Input:</b><br>
+		<textarea id="input" rows="15" cols="100"></textarea>
+		<br><br>
+		<button onclick="parse();">Parse</button>
+		<hr>
+		<table id="table" border="1"></table>
+		<script type="text/javascript">
+		let input=document.querySelector("#input");
+		let table=document.querySelector("#table");
+		function parse() {
+			let words=input.value.split(/\s*(?:;|$|\s|\(|\)|”|“|\'|\"|\:|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
+			// for(const word of words) {}
+			table.innerHTML="";
+			words=words.reduce((json,val)=>({...json,[val]:(json[val]|0)+1}),{});
+			// console.log(filters);
+			// console.log(typeof filters);
+			for(const property in words) {
+				table.innerHTML+="<tr><td>"+property+"</td><td>"+words[property]+"</td></tr>";
+			}
+		}
+		</script>
+	</body>
+</html>
