@@ -1,6 +1,21 @@
 # Text Analyzer
 
-A online and web-based tools to analyze the words of an input string.
+An online and web-based tool to analyze a text file and sorting its words in a table based on their frequency.
+
+# Text Analyzer Online Tool
+
+Analyze a text file and sorting words in a table based on frequency.
+
+## Features
+
+- Web-Based, JS
+- Without Limitation
+- 
+
+## TODO
+
+- [ ] Sort based on their frequency
+- [ ] Improve Performance with long text (Maybe browser crash)
 
 ---------
 
