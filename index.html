@@ -11,6 +11,9 @@
 		<br>
 		<b>Input:</b><br>
 		<textarea id="input" rows="15" cols="100"></textarea>
+		<br>
+		<b>Min Limit:</b><br>
+		<input id="minLimit" type="number" name="minLimit" value="5">
 		<br><br>
 		<button onclick="parse();">Parse</button>
 		<hr>
@@ -18,15 +21,39 @@
 		<script type="text/javascript">
 		let input=document.querySelector("#input");
 		let table=document.querySelector("#table");
+		let minLimit=document.querySelector("#minLimit");
+		// function isInteger(data){
+		// 	data = data +"e1";
+		// 	var clean = parseInt(data,10) / data ;
+		// 	return (data==0 ||clean && (data%1) === 0);
+		// }
 		function parse() {
-			let words=input.value.split(/\s*(?:;|$|\s|\(|\)|”|“|\'|\"|\:|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
+			// \'
+			let words=input.value.split(/\s*(?:;|$|\s|\(|\)|”|“|\"|\:|›|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
+			let minLimitValue=parseInt(minLimit.value);
 			// for(const word of words) {}
 			table.innerHTML="";
 			words=words.reduce((json,val)=>({...json,[val]:(json[val]|0)+1}),{});
 			// console.log(filters);
 			// console.log(typeof filters);
-			for(const property in words) {
-				table.innerHTML+="<tr><td>"+property+"</td><td>"+words[property]+"</td></tr>";
+			// for(const property in words) {
+			// 	if(words[property] >= minLimitValue) {
+			// 		table.innerHTML+="<tr><td>"+property+"</td><td>"+words[property]+"</td></tr>";
+			// 	}
+			// }
+			var sortables = [];
+			for(var x in words){
+				sortables.push([x, words[x]]);
+			}
+			sortables.sort(function(a, b) {
+				return b[1] - a[1];
+			});
+			console.log(sortables);
+			for(const sortable of sortables) {
+				console.log(sortable);
+				if(sortable[0] != "" && sortable[1] >= minLimitValue) {
+					table.innerHTML+="<tr><td>"+sortable[0]+"</td><td>"+sortable[1]+"</td></tr>";
+				}
 			}
 		}
 		</script>
