@@ -29,7 +29,8 @@
 		}
 		function parse() {
 			// \'
-			let words=input.value.split(/\s*(?:;|$|\s|\(|\)|”|“|\"|\:|›|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
+			let string=input.value.replace(/[0-9]+:[0-9]+:[0-9]+(,[0-9]+|)/, "");
+			let words=string.split(/\s*(?:;|$|\s|\(|\)|>|<|—>|”|“|\"|\:|›|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
 			let minLimitValue=parseInt(minLimit.value);
 			// for(const word of words) {}
 			table.innerHTML="";
