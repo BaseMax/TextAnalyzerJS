@@ -22,11 +22,11 @@
 		let input=document.querySelector("#input");
 		let table=document.querySelector("#table");
 		let minLimit=document.querySelector("#minLimit");
-		// function isInteger(data){
-		// 	data = data +"e1";
-		// 	var clean = parseInt(data,10) / data ;
-		// 	return (data==0 ||clean && (data%1) === 0);
-		// }
+		function isInteger(data){
+			data = data +"e1";
+			var clean = parseInt(data,10) / data ;
+			return (data==0 ||clean && (data%1) === 0);
+		}
 		function parse() {
 			// \'
 			let words=input.value.split(/\s*(?:;|$|\s|\(|\)|”|“|\"|\:|›|\.|\\|\/|,|\[|\]|–|=>|●|\||\?|=|-|\^)\s*/);
@@ -52,7 +52,9 @@
 			for(const sortable of sortables) {
 				console.log(sortable);
 				if(sortable[0] != "" && sortable[1] >= minLimitValue) {
-					table.innerHTML+="<tr><td>"+sortable[0]+"</td><td>"+sortable[1]+"</td></tr>";
+					if(!isInteger(sortable[0])) {
+						table.innerHTML+="<tr><td>"+sortable[0]+"</td><td>"+sortable[1]+"</td></tr>";
+					}
 				}
 			}
 		}
