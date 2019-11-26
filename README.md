@@ -9,8 +9,8 @@ Analyze a text file and sorting words in a table based on frequency.
 ## Features
 
 - Web-Based, JS
-- Without Limitation
-- 
+- Without limitation
+- Display words in a table
 
 ## TODO
 
