@@ -1,0 +1,1401 @@
+﻿1
+00:00:06,172 --> 00:00:07,965
+Joey? Are you in there?
+
+2
+00:00:08,133 --> 00:00:10,968
+- Oh, my God, that's Rachel.
+- Joey, you have to talk to her.
+
+3
+00:00:11,136 --> 00:00:14,888
+No, I can't. Not after the other night.
+It's just... It's too weird, okay?
+
+4
+00:00:15,056 --> 00:00:17,099
+Don't tell her I'm here.
+
+5
+00:00:18,727 --> 00:00:20,644
+Don't eat that.
+
+6
+00:00:22,063 --> 00:00:23,105
+- Hey.
+- Rach.
+
+7
+00:00:23,273 --> 00:00:24,982
+- Hey, Rachel.
+- Is Joey here?
+
+8
+00:00:25,150 --> 00:00:27,276
+- I don't see him. You see him?
+- I don't see him.
+
+9
+00:00:27,444 --> 00:00:30,946
+Maybe he's in the sugar bowl.
+Joey? Nope.
+
+10
+00:00:31,865 --> 00:00:33,615
+Well, at least you make
+each other laugh.
+
+11
+00:00:35,326 --> 00:00:37,619
+- What's up?
+- Well, I haven't seen him since that night...
+
+12
+00:00:37,787 --> 00:00:40,748
+...that he told me how he, you know...
+
+13
+00:00:40,915 --> 00:00:43,584
+I don't know,
+I think he's avoiding me.
+
+14
+00:00:43,752 --> 00:00:44,960
+Why is that bagel on the floor?
+
+15
+00:00:47,756 --> 00:00:50,758
+- We were playing a game.
+- Ew, was Chandler naked?
+
+16
+00:00:52,886 --> 00:00:56,221
+Sort of like a ring-toss
+kind of situation?
+
+17
+00:00:56,806 --> 00:01:00,017
+- Sure.
+- What? No. No.
+
+18
+00:01:00,560 --> 00:01:05,689
+All right, well, listen. If you see Joey,
+will you just tell him that, uh?
+
+19
+00:01:05,857 --> 00:01:07,691
+Tell him I miss him.
+
+20
+00:01:12,697 --> 00:01:17,076
+- Okay. Did you hear that?
+- Yeah. That naked bagel game? Heh.
+
+21
+00:01:19,662 --> 00:01:21,997
+Dude, I don't know.
+That's a pretty small hole.
+
+22
+00:01:24,959 --> 00:01:27,544
+- Honey, you've gotta talk to her.
+- I can't.
+
+23
+00:01:27,712 --> 00:01:30,547
+You guys don't know what it's like
+to put yourself out there like that...
+
+24
+00:01:30,715 --> 00:01:31,965
+...and then just get shot down.
+
+25
+00:01:32,133 --> 00:01:34,426
+I don't know what that's like?
+
+26
+00:01:34,594 --> 00:01:38,764
+Up until I was 25, I thought the only
+response to "I love you" was "Oh, crap."
+
+27
+00:01:39,682 --> 00:01:41,016
+Hello. No rejection?
+
+28
+00:01:41,184 --> 00:01:44,103
+I got shot down at fat camp.
+
+29
+00:01:45,522 --> 00:01:47,815
+Boy, kids are mean when they're hungry.
+
+30
+00:01:50,318 --> 00:01:52,152
+All right, so, what do I do?
+
+31
+00:01:52,362 --> 00:01:55,572
+This is Rachel. What are you gonna do,
+never talk to her again?
+
+32
+00:01:55,740 --> 00:01:58,784
+I know it's weird and it's awkward,
+but you gotta at least try.
+
+33
+00:02:00,078 --> 00:02:02,871
+Yeah, okay.
+
+34
+00:02:03,623 --> 00:02:05,791
+Whoa. I almost forgot this was on your...
+
+35
+00:02:05,959 --> 00:02:08,335
+We didn't play it.
+
+36
+00:02:49,085 --> 00:02:52,504
+Okay, so when you're done with your tea,
+I'll look at the leaves and tell your fortune.
+
+37
+00:02:52,672 --> 00:02:55,757
+- I didn't know you read tea leaves.
+- Oh, yeah, I've done it for years.
+
+38
+00:02:55,925 --> 00:02:58,260
+I actually stopped
+because I was so accurate.
+
+39
+00:02:58,428 --> 00:03:01,805
+You know, and one of the great joys
+of life...
+
+40
+00:03:01,973 --> 00:03:05,100
+...is its wondrous unpredictability,
+you know?
+
+41
+00:03:05,268 --> 00:03:08,228
+And also,
+tea tends to give me the trots.
+
+42
+00:03:08,771 --> 00:03:11,982
+- Okay. I'm done. Read mine.
+- Okay.
+
+43
+00:03:12,192 --> 00:03:15,444
+Ooh. I see a ladder.
+
+44
+00:03:15,612 --> 00:03:19,489
+Which can mean either a promotion
+or a violent death.
+
+45
+00:03:23,286 --> 00:03:26,205
+I'm the head chef.
+I can't get promoted.
+
+46
+00:03:26,497 --> 00:03:28,916
+Mm-hm. Mm-hm. Who's next?
+
+47
+00:03:30,126 --> 00:03:31,752
+Okay, I'm done. Do mine.
+
+48
+00:03:31,961 --> 00:03:33,420
+Okay.
+
+49
+00:03:33,630 --> 00:03:36,965
+- Um... Oh. Okay, I see a circle.
+- Oh.
+
+50
+00:03:37,258 --> 00:03:40,886
+Oh, which can either mean
+you're having a baby...
+
+51
+00:03:41,054 --> 00:03:43,847
+...or you're gonna make
+a scientific discovery.
+
+52
+00:03:44,015 --> 00:03:47,726
+Well, I have been spending
+a lot of time in the lab.
+
+53
+00:03:49,020 --> 00:03:53,023
+- What does yours say, Pheebs?
+- Um... Wow, all right.
+
+54
+00:03:53,566 --> 00:03:55,609
+Wow. Yay.
+
+55
+00:03:55,777 --> 00:03:59,988
+Oh, I'm gonna meet a guy.
+And really soon.
+
+56
+00:04:00,156 --> 00:04:02,532
+And he's gonna be
+the man of my dreams.
+
+57
+00:04:02,700 --> 00:04:05,202
+Probably not the guy
+I had a dream about last night.
+
+58
+00:04:05,370 --> 00:04:06,912
+You.
+
+59
+00:04:10,583 --> 00:04:12,584
+Hey, has anyone seen my shirt?
+
+60
+00:04:12,752 --> 00:04:16,421
+It's a button-down,
+like a faded salmon color?
+
+61
+00:04:16,589 --> 00:04:18,882
+You mean your pink shirt?
+
+62
+00:04:19,801 --> 00:04:21,760
+Faded salmon color?
+
+63
+00:04:21,928 --> 00:04:24,471
+No, I haven't seen your pink shirt.
+
+64
+00:04:25,098 --> 00:04:28,308
+Great, great. Then I must have
+left it at Mona's. I knew it.
+
+65
+00:04:28,518 --> 00:04:30,727
+I'm sure you can get another one
+at Ann Taylor's.
+
+66
+00:04:33,439 --> 00:04:36,149
+That's my favorite shirt, okay?
+I love that shirt.
+
+67
+00:04:36,317 --> 00:04:38,318
+Well, just ask Mona to give it back.
+
+68
+00:04:38,486 --> 00:04:40,320
+I don't know. I mean, I guess I could.
+
+69
+00:04:40,488 --> 00:04:44,074
+It's just, we didn't really end things
+on such good terms.
+
+70
+00:04:44,242 --> 00:04:47,244
+And if I went over there, I'd be ignoring
+the one thing she asked me to do...
+
+71
+00:04:47,412 --> 00:04:51,331
+...when we broke up:
+Jump up my own ass and die.
+
+72
+00:04:54,961 --> 00:04:57,546
+Oh, wait a second, you guys.
+
+73
+00:04:57,880 --> 00:05:00,882
+For the last couple weeks, I've been
+seeing that guy everywhere I go.
+
+74
+00:05:01,050 --> 00:05:04,553
+We take the same bus, we go to
+the same bookstore, same dry cleaner.
+
+75
+00:05:04,721 --> 00:05:06,430
+Maybe he's the tea guy.
+
+76
+00:05:09,851 --> 00:05:11,184
+Pheebs, did you see that?
+
+77
+00:05:11,352 --> 00:05:13,562
+He totally checked you out
+and he is so cute.
+
+78
+00:05:18,568 --> 00:05:21,361
+Mine is a picture of the Village People.
+What does that mean?
+
+79
+00:05:26,784 --> 00:05:28,994
+- Hi.
+- Hey.
+
+80
+00:05:42,091 --> 00:05:44,718
+- Hi.
+- Hi.
+
+81
+00:05:52,894 --> 00:05:54,353
+Tea gives Phoebe the trots.
+
+82
+00:06:02,362 --> 00:06:04,905
+I thought Joey and I would be okay
+once we hung out...
+
+83
+00:06:05,073 --> 00:06:07,824
+...but it's like we don't even know
+how to be with each other anymore.
+
+84
+00:06:08,034 --> 00:06:11,745
+- I know it's tough, but things will get better.
+- How do you know that?
+
+85
+00:06:11,913 --> 00:06:14,373
+What if it just gets
+worse and worse and worse...
+
+86
+00:06:14,540 --> 00:06:17,918
+...to the point where we can't even
+be in the same room with each other?
+
+87
+00:06:18,503 --> 00:06:20,754
+I'm not great at the advice.
+
+88
+00:06:20,922 --> 00:06:23,215
+Can I interest you
+in a sarcastic comment?
+
+89
+00:06:25,385 --> 00:06:27,094
+Some cheese?
+
+90
+00:06:30,473 --> 00:06:34,768
+Honey, why is the Bruce Springsteen CD
+in the Cat Stevens case?
+
+91
+00:06:34,936 --> 00:06:38,855
+Let's just say if I can't find the right
+CD case, I just put it in the nearest one.
+
+92
+00:06:39,190 --> 00:06:42,776
+- Okay, well, where is the Cat Stevens CD?
+- In the James Taylor case.
+
+93
+00:06:42,944 --> 00:06:45,695
+- Where's the James Taylor CD?
+- Honey, I'm gonna save you some time.
+
+94
+00:06:45,863 --> 00:06:48,740
+Two hundred CDs,
+not one of them in the right case.
+
+95
+00:06:50,410 --> 00:06:54,955
+Okay. No need to panic.
+Deep breaths, everyone.
+
+96
+00:06:55,123 --> 00:06:57,165
+Okay, um, we're just gonna have to
+spend some time...
+
+97
+00:06:57,333 --> 00:06:58,834
+...and put the CDs in the right cases.
+
+98
+00:06:59,001 --> 00:07:01,420
+If we're gonna do that,
+we should come up with some order.
+
+99
+00:07:01,587 --> 00:07:03,213
+Like alphabetically, or by genre.
+
+100
+00:07:03,464 --> 00:07:05,924
+Hmm, I don't know.
+We really have to talk this through.
+
+101
+00:07:06,092 --> 00:07:11,012
+Oh, my God, you guys have such problems.
+I feel so terrible for you.
+
+102
+00:07:12,557 --> 00:07:14,975
+All right. Okay, I'm sorry.
+
+103
+00:07:15,143 --> 00:07:18,478
+Look, you and Joey, you're both focusing
+on this uncomfortable thing.
+
+104
+00:07:18,646 --> 00:07:20,605
+What you need to do
+is change the subject.
+
+105
+00:07:21,023 --> 00:07:23,900
+Next time you see him, try to get him
+talking about something else.
+
+106
+00:07:24,068 --> 00:07:25,694
+- Oh, yeah, that makes sense.
+- Yeah.
+
+107
+00:07:25,862 --> 00:07:29,156
+I don't know, maybe you have
+a work problem you need his advice on.
+
+108
+00:07:29,323 --> 00:07:31,241
+- Ooh, I could do that. I could do that.
+- Good.
+
+109
+00:07:32,326 --> 00:07:34,744
+Honey, the Miami Vice soundtrack?
+Really?
+
+110
+00:07:34,954 --> 00:07:36,997
+They were just giving those away
+at the store.
+
+111
+00:07:38,499 --> 00:07:41,460
+In exchange for money.
+
+112
+00:07:43,838 --> 00:07:45,505
+Hey.
+
+113
+00:07:45,923 --> 00:07:47,048
+Hi.
+
+114
+00:07:50,261 --> 00:07:52,804
+I really don't know what to tell you, Rach.
+I really don't.
+
+115
+00:07:52,972 --> 00:07:57,601
+Maybe Joey could help you out
+with your big work problem.
+
+116
+00:07:58,895 --> 00:08:01,104
+- What?
+- Yeah, Joey, she's...
+
+117
+00:08:01,272 --> 00:08:05,066
+Rachel's got this really big work problem.
+It is a head-scratcher. Heh.
+
+118
+00:08:06,277 --> 00:08:10,655
+Well, you know what? If we're gonna make
+dinner, we're gonna have to leave. Yeah.
+
+119
+00:08:14,952 --> 00:08:18,288
+So you, uh, have a big work problem?
+
+120
+00:08:19,290 --> 00:08:21,625
+Yeah. It's, um...
+
+121
+00:08:21,792 --> 00:08:24,044
+Yeah, it's, uh...
+
+122
+00:08:26,714 --> 00:08:29,007
+You know, it's nothing.
+
+123
+00:08:29,217 --> 00:08:31,510
+Oh. Okay.
+
+124
+00:08:35,097 --> 00:08:37,349
+So, uh, I think I'm gonna take off.
+
+125
+00:08:38,017 --> 00:08:42,604
+No, wait, Joey, it is.
+It's something. It's, um...
+
+126
+00:08:42,772 --> 00:08:44,356
+It's my boss.
+
+127
+00:08:45,024 --> 00:08:47,609
+- Yeah?
+- Yeah. And, um...
+
+128
+00:08:49,195 --> 00:08:51,196
+And my baby.
+
+129
+00:08:51,864 --> 00:08:52,948
+Yeah?
+
+130
+00:08:54,242 --> 00:08:56,326
+My boss wants to buy my baby.
+
+131
+00:08:58,829 --> 00:09:02,249
+What? Oh, my... Oh, my God.
+
+132
+00:09:02,458 --> 00:09:05,669
+I know, I told you,
+it's a really big problem.
+
+133
+00:09:05,962 --> 00:09:09,631
+- He wants to buy your baby?
+- Can you believe that?
+
+134
+00:09:09,799 --> 00:09:12,551
+- That's crazy.
+- That's what I told him.
+
+135
+00:09:12,718 --> 00:09:16,429
+- How did this even happen?
+- Well, I'll tell you.
+
+136
+00:09:19,392 --> 00:09:24,813
+See, uh, my boss and, uh, his wife,
+they can't have children, so, um...
+
+137
+00:09:24,981 --> 00:09:28,066
+And then when we were
+at the Christmas party...
+
+138
+00:09:28,234 --> 00:09:32,862
+...and he got drunk and said to me,
+"Rachel, I want to buy your baby."
+
+139
+00:09:33,281 --> 00:09:38,368
+Man. When you said it was a problem
+about your boss and the baby...
+
+140
+00:09:38,536 --> 00:09:40,537
+...I figured it was something
+about maternity leave.
+
+141
+00:09:40,705 --> 00:09:43,832
+Oh. Yeah.
+
+142
+00:09:53,634 --> 00:09:57,762
+Yeah, that would have been
+a much simpler problem.
+
+143
+00:10:04,103 --> 00:10:08,356
+- Oh, hello.
+- Oh, it's you. I see you everywhere.
+
+144
+00:10:08,524 --> 00:10:10,567
+- Mm-hm.
+- I'm Jim. Jim Nelson.
+
+145
+00:10:10,735 --> 00:10:13,236
+Jim-Jim Nelson.
+I'm Phoebe-Phoebe Buffay.
+
+146
+00:10:14,822 --> 00:10:16,781
+We certainly have been seeing
+a lot of each other.
+
+147
+00:10:16,949 --> 00:10:21,369
+We have. Maybe we'll see each other
+at dinner tomorrow. Say, around 8:00?
+
+148
+00:10:22,830 --> 00:10:24,914
+Well, maybe we will.
+
+149
+00:10:26,000 --> 00:10:27,626
+Oh.
+
+150
+00:10:33,674 --> 00:10:35,175
+Mona?
+
+151
+00:10:46,520 --> 00:10:47,729
+Ow.
+
+152
+00:10:59,325 --> 00:11:02,786
+Okay, if I were a salmon shirt,
+where would I be?
+
+153
+00:11:10,086 --> 00:11:13,505
+I am so sorry I spilled wine
+all over your shirt.
+
+154
+00:11:13,673 --> 00:11:16,633
+- Oh, it's okay.
+- No, it's still wet.
+
+155
+00:11:16,801 --> 00:11:20,845
+Let me get it out before it sets.
+Oh, I have something you could wear.
+
+156
+00:11:24,225 --> 00:11:26,393
+- Here.
+- Oh, uh...
+
+157
+00:11:26,977 --> 00:11:28,853
+I don't know if I wanna wear
+a woman's shirt.
+
+158
+00:11:31,524 --> 00:11:33,983
+- No, no, that's a man's shirt.
+- Awfully pink.
+
+159
+00:11:34,151 --> 00:11:36,027
+It's not pink.
+
+160
+00:11:39,448 --> 00:11:42,075
+Oh, my God, honey,
+we are so meant to be together.
+
+161
+00:11:42,243 --> 00:11:46,871
+- Look, we both have the Annie soundtrack.
+- Honey, both yours.
+
+162
+00:11:48,916 --> 00:11:51,876
+Hey, great advice on that Joey thing.
+
+163
+00:11:52,044 --> 00:11:54,379
+- Yeah, the work problem?
+- It was perfect.
+
+164
+00:11:54,547 --> 00:11:56,798
+It felt like he was my friend again.
+
+165
+00:11:56,966 --> 00:12:01,553
+- What problem did you tell him you have?
+- Oh, that's not important.
+
+166
+00:12:02,096 --> 00:12:06,099
+The point is,
+I really think everything's gonna be okay.
+
+167
+00:12:07,893 --> 00:12:09,394
+May I help you?
+
+168
+00:12:09,562 --> 00:12:13,314
+You think you can just buy
+my friend's baby?
+
+169
+00:12:21,031 --> 00:12:23,825
+Isn't it funny how we kept
+running into each other?
+
+170
+00:12:23,993 --> 00:12:26,119
+It's as if someone really wants us
+to be together.
+
+171
+00:12:26,287 --> 00:12:28,663
+Someone does. Me.
+
+172
+00:12:28,831 --> 00:12:32,167
+Ooh. Witty banter. Well done. Good.
+
+173
+00:12:32,334 --> 00:12:36,546
+- So tell me a little bit about yourself.
+- Oh, okay. Well, I'm a masseuse.
+
+174
+00:12:36,714 --> 00:12:41,426
+- And I used to work at this place...
+- Do you like to party?
+
+175
+00:12:43,429 --> 00:12:45,555
+I... I like parties.
+
+176
+00:12:45,723 --> 00:12:48,224
+You're wild, aren't you? Heh.
+
+177
+00:12:49,643 --> 00:12:54,355
+- Yeah, I guess. A little.
+- Ain't no thing. I'm wild too.
+
+178
+00:12:57,860 --> 00:13:00,028
+So, um, anyway...
+
+179
+00:13:00,488 --> 00:13:04,491
+...I... I've lived in New York,
+somewhat wildly, I guess...
+
+180
+00:13:04,658 --> 00:13:07,869
+...for, um... Well, since I was 14.
+
+181
+00:13:08,037 --> 00:13:10,455
+I'm sorry. I'm staring.
+
+182
+00:13:10,623 --> 00:13:14,709
+It's just that you have
+the most beautiful eyes.
+
+183
+00:13:14,877 --> 00:13:15,960
+Oh, stop it.
+
+184
+00:13:16,128 --> 00:13:18,630
+And your breasts. Mm!
+
+185
+00:13:21,759 --> 00:13:23,218
+Okay. Ahem.
+
+186
+00:13:23,385 --> 00:13:26,179
+Look, uh, you're coming on
+a little strong.
+
+187
+00:13:26,347 --> 00:13:28,515
+But I'm gonna give you
+the benefit of the doubt.
+
+188
+00:13:28,682 --> 00:13:31,935
+Because it seems the universe
+really wants us to be together.
+
+189
+00:13:32,102 --> 00:13:36,231
+So why don't we start over, okay?
+You can just tell me about yourself.
+
+190
+00:13:36,398 --> 00:13:38,316
+- All right.
+- Okay.
+
+191
+00:13:38,651 --> 00:13:41,444
+I write erotic novels...
+
+192
+00:13:41,612 --> 00:13:43,154
+...for children.
+
+193
+00:13:45,825 --> 00:13:48,409
+- What?
+- They're wildly unpopular.
+
+194
+00:13:49,245 --> 00:13:51,162
+Oh, my God.
+
+195
+00:13:51,330 --> 00:13:54,165
+Also, you might be interested to know
+that I have a Ph.D.
+
+196
+00:13:54,333 --> 00:13:57,210
+- Wow, you do?
+- Yep. A pretty huge...
+
+197
+00:13:57,378 --> 00:13:58,795
+All right.
+
+198
+00:14:02,132 --> 00:14:04,884
+The sun will come out tomorrow
+
+199
+00:14:05,052 --> 00:14:09,514
+Bet your bottom dollar
+That tomorrow
+
+200
+00:14:11,016 --> 00:14:12,308
+There'll be sun
+
+201
+00:14:14,895 --> 00:14:16,813
+- Hey.
+- Hey, Joey, honey, listen.
+
+202
+00:14:16,981 --> 00:14:19,649
+Thank you for talking to me yesterday
+about that thing with my boss.
+
+203
+00:14:19,817 --> 00:14:22,986
+- That really meant a lot.
+- Not a problem. Oh, and just so you know...
+
+204
+00:14:23,153 --> 00:14:26,865
+...that guy's not gonna be bothering you
+about that baby thing anymore.
+
+205
+00:14:29,493 --> 00:14:32,245
+- What?
+- Let's just say I took care of it.
+
+206
+00:14:32,413 --> 00:14:35,290
+Ooh, let's say more.
+
+207
+00:14:35,457 --> 00:14:38,626
+Don't worry, don't worry.
+I just told him, very nicely:
+
+208
+00:14:38,794 --> 00:14:42,005
+"You don't go buying people's babies,
+so back off."
+
+209
+00:14:42,840 --> 00:14:45,091
+- What?
+- What?
+
+210
+00:14:45,259 --> 00:14:46,384
+No, no, no.
+
+211
+00:14:46,552 --> 00:14:49,679
+Joey, he doesn't wanna buy my baby.
+I made that up.
+
+212
+00:14:49,847 --> 00:14:52,098
+What? Why?
+
+213
+00:14:52,349 --> 00:14:55,435
+So that we would have something
+to talk about so it wouldn't be awkward.
+
+214
+00:14:55,603 --> 00:14:58,354
+And you couldn't think of anything else?
+
+215
+00:14:58,564 --> 00:15:02,233
+You said your boss
+wants to buy your baby?
+
+216
+00:15:02,401 --> 00:15:04,360
+I can't believe you yelled at my boss.
+
+217
+00:15:04,528 --> 00:15:06,779
+I'm gonna lose my job.
+What am I gonna do?
+
+218
+00:15:06,947 --> 00:15:08,448
+You could always sell your baby.
+
+219
+00:15:10,993 --> 00:15:14,913
+Joey, I cannot believe you brought
+my boss into this. I'm gonna get fired.
+
+220
+00:15:15,080 --> 00:15:18,041
+- You lied to me.
+- Well, she told me to.
+
+221
+00:15:19,501 --> 00:15:21,544
+Chandler has two copies of Annie.
+
+222
+00:15:38,062 --> 00:15:39,646
+Ah.
+
+223
+00:16:02,670 --> 00:16:03,795
+Oh, my God.
+
+224
+00:16:04,505 --> 00:16:07,924
+- Ross!
+- Hello.
+
+225
+00:16:08,842 --> 00:16:10,301
+Ross, what are you doing?
+
+226
+00:16:10,469 --> 00:16:16,391
+Not touching myself, if that makes
+anyone less uncomfortable.
+
+227
+00:16:20,854 --> 00:16:23,356
+Morning. You wanted to see me?
+
+228
+00:16:23,524 --> 00:16:26,401
+Please, come in. Have a seat.
+
+229
+00:16:28,696 --> 00:16:31,739
+- Okay, look, Mr. Zelner...
+- Oh, I think it's best that I speak first.
+
+230
+00:16:31,907 --> 00:16:33,116
+Yeah.
+
+231
+00:16:34,910 --> 00:16:39,914
+I've asked Lee from human resources
+to be here as a witness to our conversation.
+
+232
+00:16:40,165 --> 00:16:41,582
+Oh, God.
+
+233
+00:16:42,543 --> 00:16:48,798
+If I in any way implied
+that I wanted to buy your baby...
+
+234
+00:16:51,135 --> 00:16:53,219
+...I am sorry. Okay?
+
+235
+00:16:53,387 --> 00:16:56,973
+Last week, when I asked you
+when your due date was, uh...
+
+236
+00:16:57,141 --> 00:17:02,520
+...I certainly did not mean that
+I felt that I was due your baby.
+
+237
+00:17:04,565 --> 00:17:06,899
+Yeah, I want to be very clear...
+
+238
+00:17:07,067 --> 00:17:10,403
+...that I understand that it's your baby...
+
+239
+00:17:10,904 --> 00:17:14,449
+...and it is not mine to purchase.
+
+240
+00:17:20,330 --> 00:17:23,875
+Well, as long as we are clear about that.
+
+241
+00:17:34,386 --> 00:17:35,428
+Oh, there it is.
+
+242
+00:17:35,596 --> 00:17:37,972
+- That's not your regular dry cleaners.
+- I know.
+
+243
+00:17:38,140 --> 00:17:41,350
+But that creep I went on that date with
+goes there so I had to find a new one.
+
+244
+00:17:41,518 --> 00:17:43,936
+I also have to find a new video store,
+a new bank...
+
+245
+00:17:44,104 --> 00:17:46,355
+...a new adult bookstore,
+a new grocery store...
+
+246
+00:17:46,607 --> 00:17:50,109
+- What?
+- A new grocery store.
+
+247
+00:17:51,904 --> 00:17:54,864
+The universe said I was gonna meet
+a nice guy and that's what they gave me?
+
+248
+00:17:55,032 --> 00:17:58,326
+When I get up there,
+I'm gonna kick some ass.
+
+249
+00:17:58,494 --> 00:18:00,536
+Don't worry, Phoebe,
+you're gonna meet someone.
+
+250
+00:18:00,704 --> 00:18:02,705
+If I can meet a great guy,
+so can you.
+
+251
+00:18:02,873 --> 00:18:05,750
+Yeah, we both can. And we both will.
+
+252
+00:18:10,380 --> 00:18:13,216
+- Oh, you didn't have to come in with me.
+- Are you kidding?
+
+253
+00:18:13,383 --> 00:18:17,095
+This is where they get out stains.
+This is like Disneyland for me.
+
+254
+00:18:18,514 --> 00:18:22,975
+I'm gonna be over here
+watching the dance of the clean shirts.
+
+255
+00:18:26,772 --> 00:18:29,315
+Oh, excuse me.
+I think you, uh, dropped...
+
+256
+00:18:31,026 --> 00:18:33,027
+- Wow.
+- What?
+
+257
+00:18:33,195 --> 00:18:35,822
+I'm sorry, it's just that
+you're so incredibly beautiful.
+
+258
+00:18:35,989 --> 00:18:40,118
+Oh, yeah, well, I'm sorry about that too.
+But what are you gonna do?
+
+259
+00:18:40,285 --> 00:18:43,746
+I hope you don't think I'm crazy,
+but I feel like I was meant to pick this up.
+
+260
+00:18:43,914 --> 00:18:48,042
+- Do you believe in that kind of thing?
+- A little. Heh.
+
+261
+00:18:48,210 --> 00:18:50,128
+Now you're talking.
+
+262
+00:18:50,796 --> 00:18:54,465
+- Would you like to go have a cup of coffee?
+- I'd love to. Let me just tell my friend.
+
+263
+00:18:54,633 --> 00:18:58,594
+Ooh. An ink stain.
+Hey, can I watch how you get this out?
+
+264
+00:18:59,888 --> 00:19:01,889
+She must have left.
+
+265
+00:19:05,435 --> 00:19:08,187
+- Hi.
+- So, what happened?
+
+266
+00:19:08,355 --> 00:19:09,397
+It's all gonna be okay.
+
+267
+00:19:09,565 --> 00:19:11,232
+They're just so happy
+I'm not suing them...
+
+268
+00:19:11,400 --> 00:19:14,318
+...that they gave me one extra month
+paid maternity leave.
+
+269
+00:19:14,528 --> 00:19:17,530
+So long as I understand that the money
+should not be construed...
+
+270
+00:19:17,698 --> 00:19:22,243
+...as a down payment on this
+or any other child that I may bear.
+
+271
+00:19:22,494 --> 00:19:24,871
+Wow. Ralph Lauren
+is going out of their way...
+
+272
+00:19:25,038 --> 00:19:27,832
+...to show that they're not
+in the baby-buying business.
+
+273
+00:19:29,293 --> 00:19:31,669
+- Chandler, can you give us a minute?
+- Oh, I'm sorry.
+
+274
+00:19:31,837 --> 00:19:34,172
+- You're kicking me out of my living room?
+- Yeah.
+
+275
+00:19:35,591 --> 00:19:37,383
+I'll be in there.
+
+276
+00:19:42,181 --> 00:19:46,309
+Joey, I'm really sorry that I lied to you.
+I was just trying to make things...
+
+277
+00:19:46,476 --> 00:19:48,853
+I know. I know.
+
+278
+00:19:50,022 --> 00:19:51,355
+But it kind of worked.
+
+279
+00:19:51,523 --> 00:19:53,191
+I mean, you know,
+I don't know about you...
+
+280
+00:19:53,358 --> 00:19:55,693
+...but I haven't thought about our thing
+since all this.
+
+281
+00:19:56,320 --> 00:19:58,070
+Yeah, you're right.
+
+282
+00:19:58,864 --> 00:20:02,617
+Yeah. It's kind of been like us again,
+a little bit.
+
+283
+00:20:02,784 --> 00:20:06,037
+- Yeah, I know. I've missed that.
+- Me too.
+
+284
+00:20:06,205 --> 00:20:09,790
+I mean, I haven't thought at all
+about how I put myself out there...
+
+285
+00:20:09,958 --> 00:20:13,377
+...and said that stuff and how
+you didn't feel the same way about me...
+
+286
+00:20:13,545 --> 00:20:17,924
+...and how it was really awkward.
+
+287
+00:20:25,474 --> 00:20:27,892
+My gynecologist tried to kill me.
+
+288
+00:20:34,942 --> 00:20:38,736
+Item J437-A.
+
+289
+00:20:38,904 --> 00:20:41,864
+Color: Winterberry.
+
+290
+00:20:49,456 --> 00:20:52,166
+Hi, um, listen.
+Come here. Come...
+
+291
+00:20:52,334 --> 00:20:55,044
+I'm so, so sorry about yesterday.
+
+292
+00:20:55,796 --> 00:20:57,922
+I'm really, really sorry. It's just...
+
+293
+00:20:58,090 --> 00:21:02,802
+Listen, Ross, you don't have to apologize.
+I understand why you were there.
+
+294
+00:21:03,136 --> 00:21:06,013
+- You do?
+- Yeah. You still have feelings for me.
+
+295
+00:21:06,181 --> 00:21:10,268
+And to be honest,
+I still have feelings for you too...
+
+296
+00:21:10,435 --> 00:21:12,895
+...and I wish we could work out, Ross,
+but we can't.
+
+297
+00:21:13,063 --> 00:21:17,316
+It's too complicated with you
+and Rachel and the baby. I just...
+
+298
+00:21:18,735 --> 00:21:20,444
+It just wasn't meant to be.
+
+299
+00:21:22,281 --> 00:21:24,115
+Oh, God. You're right.
+
+300
+00:21:25,617 --> 00:21:29,537
+- Ross, we have to be strong.
+- Mm.
+
+301
+00:21:31,623 --> 00:21:34,000
+Okay, I'm gonna go.
+
+302
+00:21:36,503 --> 00:21:39,797
+Can I? To remember you?
+
+303
+00:21:44,011 --> 00:21:45,761
+No.
+
