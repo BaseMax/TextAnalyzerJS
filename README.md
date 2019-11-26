@@ -8,13 +8,15 @@ Analyze a text file and sorting words in a table based on frequency.
 
 ## Features
 
+- Support Subtitle files
 - Web-Based, JS
 - Without limitation
 - Display words in a table
+- Sort based on their frequency
+- Support subtitle files
 
 ## TODO
 
-- [ ] Sort based on their frequency
 - [ ] Improve Performance with long text (Maybe browser crash)
 
 ---------
